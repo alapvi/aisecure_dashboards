@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Generated HTML/logs
+*.log
+dashboard_so.html
+security_overview.html
+
+# Local assets / private files
+logo_institut.png
